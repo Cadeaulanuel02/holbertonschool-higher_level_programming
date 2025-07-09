@@ -1,4 +1,3 @@
 #!/usr/bin/python3
 adress = 98
-print( adress,"battery street")
- 
+print(f'{adress}',"battery street")
