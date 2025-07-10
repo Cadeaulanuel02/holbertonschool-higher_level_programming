@@ -9,3 +9,4 @@ elif number == 0:
 
 else:
     print(f"{number} is negative") 
+    
