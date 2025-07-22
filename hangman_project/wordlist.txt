@@ -1,0 +1,15 @@
+python
+hangman
+challenge
+function
+variable
+programming
+module
+debugging
+syntax
+computer
+keyboard
+internet
+console
+loop
+random
